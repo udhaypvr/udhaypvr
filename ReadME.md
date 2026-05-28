@@ -1,7 +1,7 @@
 # Hi there, I'm UDHAY! 👋 
 ### 🚀 AI Enthusiast & Full-Scale Web Developer
 
-I am a passionate developer with a knack for building full-scale websites, web apps, and data-driven architectures. I believe that a robust GitHub portfolio is the ultimate proof of work. This repository showcases my engineering journey, architectural choices, and technical evolution. 
+I am a passionate developer with a knack for building full-scale websites, web apps, and data-driven architectures. I believe that a robust GitHub portfolio is the ultimate proof of work. This repository showcases my engineering journey, architectural choices, and technical evolution. I am a UG student at Joy university. 
 
 Feel free to explore, break things, and collaborate!
 
